@@ -10,6 +10,7 @@ b = [3, 6, -3]
 s1 = 2
 s2 = 4
 
+# take the dot product
 dp1 = np.dot(a, b)
 dp2 = np.dot(np.multiply(a, s1), np.multiply(b, s2))
 
