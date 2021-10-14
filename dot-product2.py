@@ -1,6 +1,6 @@
 import numpy as np
 
-# is the dot product is commutative?
+# is the dot product commutative?
 a = np.random.randn(100)
 b = np.random.randn(100)
 
