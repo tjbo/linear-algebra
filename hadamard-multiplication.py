@@ -1,5 +1,8 @@
 import numpy as np
 
+# also called element wise
+# both vectors need to be the same size
+
 w1 = [1, 3, 5]
 w2 = [3, 4, 2]
 
